@@ -1,0 +1,133 @@
+[{
+        "url": "accountoverview",
+        "category": "Account Overview",
+        "icon": "https://i.ibb.co/27R6nk5/home-1.png",
+        "questions": [{
+                "question": "What do I do next as a first-time user?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "How can I change my profile picture and other information?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "I didn't receive a confirmation email. What should I do?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "What is the refund policy if I have to cancel during the month?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            }
+        ]
+    },
+    {
+        "url": "subscriptionplans",
+        "category": "Subscription Plans",
+        "icon": "https://i.ibb.co/bdGyLYk/pricetags-1.png",
+        "questions": [{
+                "question": "How can I get started with my first subscription?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "How can I upgrade or change my subscription plan?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "I didn't receive a confirmation email for my subscription. What should I do?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "What is the refund policy for subscription cancellations?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            }
+        ]
+    },
+    {
+        "url": "paymentoptions",
+        "category": "Payment Options",
+        "icon": "https://i.ibb.co/GT4KHvJ/card-1.png",
+        "questions": [{
+                "question": "How can I add or update my payment information?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "What should I do if my banana payment method is declined?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "How do I view my payment history?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "Can I use multiple payment methods for a single purchase?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            }
+        ]
+    },
+    {
+        "url": "notifications",
+        "category": "Notification Settings",
+        "icon": "https://i.ibb.co/rG4r6NJ/notifications-1.png",
+        "questions": [{
+                "question": "How do I enable or disable email notifications?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "How can I customize the types of notifications I receive?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "I'm not receiving certain notifications. What should I do?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "Can I receive notifications on my mobile device?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            }
+        ]
+    },
+    {
+        "url": "profilepreferences",
+        "category": "Profile Preferences",
+        "icon": "https://i.ibb.co/HFC1hqn/people-1.png",
+        "questions": [{
+                "question": "How can I update my profile information?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "What privacy banana settings are available for my profile?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "How do I control who can see my profile?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "Can I deactivate or delete my account?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            }
+        ]
+    },
+    {
+        "url": "privacyandcookies",
+        "category": "Privacy and Cookies",
+        "icon": "https://i.ibb.co/QX80fYm/lock-closed-1.png",
+        "questions": [{
+                "question": "What information is collected through cookies?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "How is my data used to improve the service?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "What privacy options do I have for my account?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            },
+            {
+                "question": "Where can I find the full privacy policy?",
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+            }
+        ]
+    }
+]

@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+    pages: {
+        path: "pages",
+    },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;

@@ -58,6 +58,9 @@ module.exports = {
       inset: {
         full: "100%",
       },
+      top: {
+        "40vh": "40vh",
+      },
       letterSpacing: {
         tighter: "-0.02em",
         tight: "-0.01em",

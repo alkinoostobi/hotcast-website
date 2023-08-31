@@ -26,22 +26,24 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
-                  href="/signin"
-                  className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  href="/signup"
+                  className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3"
                 >
-                  Login
+                  Log In
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-400 ml-3">
-                  Sign up
+                <Link
+                  href="/faq"
+                  className="btn-sm text-white bg-gray-700 hover:bg-gray-800 ml-3"
+                >
+                  FAQ
                 </Link>
               </li>
             </ul>
           </nav>
 
           <MobileMenu />
-
         </div>
       </div>
     </header>

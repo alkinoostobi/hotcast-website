@@ -9,8 +9,8 @@ import Newsletter from '@/components/newsletter'
 import Zigzag from '@/components/zigzag'
 import Testimonials from '@/components/testimonials'
 import Contactus from '@/components/contactus'
+import LogoCarousel from "@/components/carousel";
 export default function Home() {
-  
   return (
     <>
       <Hero />
@@ -18,9 +18,10 @@ export default function Home() {
         <Features />
       </div>
       <Zigzag />
-      <Testimonials />
+      {/*<Testimonials />
+      <LogoCarousel />*/}
+      <Contactus />
       <Newsletter />
-      <Contactus/>
     </>
-  )
+  );
 }
